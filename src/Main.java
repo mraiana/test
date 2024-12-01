@@ -13,7 +13,7 @@ public class Main {
             //throw new ArithmeticException("Делить на ноль нельзя");
             System.out.println("Делить на ноль нельзя");
         }
-        System.out.println("The end");
+        System.out.println("The end1");
 
     }
 }
